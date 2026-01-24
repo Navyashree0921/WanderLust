@@ -1,2 +1,9 @@
-WanderLust is a travel-based web application inspired by platforms like Airbnb. It allows users to explore destinations, add new listings, view details, and manage content efficiently.
-The project focuses on building a scalable full-stack application using modern web technologies, emphasizing CRUD operations, routing, and database integration.
+<p>WanderLust is a travel-based web application inspired by platforms like Airbnb. It allows users to explore destinations, add new listings, view details, and manage content efficiently.
+  </br>
+The project focuses on building a scalable full-stack application using modern web technologies, emphasizing CRUD operations, routing, and database integration.</p>
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VSCode
+
